@@ -21,6 +21,6 @@ My-Python-Journey
 ---
 I use **Jupyter Notebook** for the daily file Because :
 - I can do and show multiple concepts in it.
-- gives many virtual environments for experimentation.
+- Helps in experimentation.
 
-While for the Projects, I use the standard ```.py``` Python File.
+While for the Mini Projects and Exercises, I use the standard ```.py``` Format.
