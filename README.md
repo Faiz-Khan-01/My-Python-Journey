@@ -1,11 +1,10 @@
 # My-Python-Journey
 ### Repository Status : [ACTIVE]
 ### Current Focus : [Match Case Statements]
-### So in this repository :-
-- I started Python with minimal basics from Day 1.
+### In this repository :-
+- I started Python with Basic level Syntax familiarity.
 - I am aiming for reaching Intermediate Python in this repo.
-- You can use ```Streaks``` as quick notes.
-- You can also use ```Exercises``` for practice.
+- You can use ```Exercises``` for practice.
 ---
 ### REPOSITORY TREE
 ```
