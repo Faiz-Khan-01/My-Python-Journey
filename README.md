@@ -1,5 +1,4 @@
 # My-Python-Journey
-### Repository Status : [ACTIVE]
 ### Current Focus : [Match Case Statements]
 ### In this repository :-
 - I started Python with Basic level Syntax familiarity.
@@ -18,8 +17,7 @@ My-Python-Journey
  
 ```
 ---
-I use **Jupyter Notebook** for the daily file Because :
-- I can do and show multiple concepts in it.
-- Helps in experimentation.
-
-While for the Mini Projects and Exercises, I use the standard ```.py``` Format.
+### Learning Resources
+- ```100 Days of Code - Python Programming``` Course by ```Code with Harry```
+- ```30 Days of Python``` Github Repository by ```Asabeneh```
+- ```The Ultimate Python Handbook``` Handbook by ```Code with Harry ```
