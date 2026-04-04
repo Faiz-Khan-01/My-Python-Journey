@@ -1,13 +1,26 @@
 # My-Python-Journey
-### So this is my repository in which i would be sharing my Python journey.
+### Repository Status : [ACTIVE]
+### Current Focus : [Match Case Statements]
+### So in this repository :-
+- I started Python with minimal basics from Day 1.
+- I am aiming for reaching Intermediate Python in this repo.
+- You can use ```Streaks``` as quick notes.
+- You can also use ```Exercises``` for practice.
 ---
-- Started from Day 1 with bare minimum Basics.
-- I made this repository as my streak and record of my journey.
-- I also add some small projects in the ```Project``` folder.
-- The daily progress file is added in the ```Streak``` folder.
+### REPOSITORY TREE
+```
+My-Python-Journey
+	|
+	|--- Exercises # Some Practice Tasks
+	|
+	|--- Mini Projects # Small Projects I build
+	|
+	|--- Streaks # Daily progress
+ 
+```
 ---
 I use **Jupyter Notebook** for the daily file Because :
 - I can do and show multiple concepts in it.
-- gives many virtual environments to dirty my hands.
+- gives many virtual environments for experimentation.
 
 While for the Projects, I use the standard ```.py``` Python File.
