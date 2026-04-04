@@ -1,5 +1,5 @@
 # My-Python-Journey
-### Current Focus : [Match Case Statements]
+### Current Focus : [For Loops]
 ### In this repository :-
 - I started Python with Basic level Syntax familiarity.
 - I am aiming for reaching Intermediate Python in this repo.
