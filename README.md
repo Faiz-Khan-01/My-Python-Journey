@@ -1,5 +1,5 @@
 # My-Python-Journey
-### Current Focus : [For Loops]
+### Current Focus : [While Loops]
 ### In this repository :-
 - I started Python with Basic level Syntax familiarity.
 - I am aiming for reaching Intermediate Python in this repo.
