@@ -19,5 +19,4 @@ My-Python-Journey
 ---
 ### Learning Resources
 - ```100 Days of Code - Python Programming``` Course by ```Code with Harry```
-- ```30 Days of Python``` Github Repository by ```Asabeneh```
 - ```The Ultimate Python Handbook``` Handbook by ```Code with Harry ```
